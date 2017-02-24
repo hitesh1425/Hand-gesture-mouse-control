@@ -1,0 +1,3 @@
+/home/hitesh/minor project/build/CMakeFiles/edit_cache.dir
+/home/hitesh/minor project/build/CMakeFiles/rebuild_cache.dir
+/home/hitesh/minor project/build/CMakeFiles/demo.dir
